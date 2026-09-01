@@ -107,9 +107,17 @@ Healthcare-Data-Analysis/
 │
 ├── Healthcare_Data.xlsx
 ├── README.md
-└── Dashboard/
-    └── Healthcare_Dashboard.xlsx
+
 ```
+## Dashboard
+<img width="462" height="519" alt="image" src="https://github.com/user-attachments/assets/1beaac80-1cb9-4b5a-9049-0cea50d4c6f7" />
+<img width="525" height="566" alt="image" src="https://github.com/user-attachments/assets/dd15be4c-daaa-4d24-b6a0-941b2e9957fc" />
+<img width="724" height="590" alt="image" src="https://github.com/user-attachments/assets/53969cd9-66b4-410f-a1c5-d454184d7ce2" />
+<img width="545" height="624" alt="image" src="https://github.com/user-attachments/assets/7d25974a-adac-4a41-be9e-73469d37d878" />
+
+
+
+
 
 ## 🚀 Project Outcome
 
